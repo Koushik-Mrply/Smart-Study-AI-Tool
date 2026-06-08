@@ -1,4 +1,4 @@
-# 🚀 Smart Study AI Tool
+# Smart Study AI Tool
 
 Welcome to my submission for Task 1! I built a personalized AI study assistant using Python, Streamlit, and the Google Gemini 2.5 Flash API. It handles everyday student struggles, like understanding topics at 2 AM or creating quick practice quizzes.
 
@@ -14,7 +14,7 @@ Welcome to my submission for Task 1! I built a personalized AI study assistant u
 
 ---
 
-## 💻 How to Get it Running Local
+## How to Get it Running Local?
 Make sure you have Python installed, then run this command in your terminal to install the dependencies:
 ```bash
 pip install streamlit google-generativeai
