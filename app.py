@@ -6,7 +6,7 @@ import streamlit as st
 st.title("📚 Smart Study AI Tool 📚")
 st.write("Welcome to my first AI tool.")
 
-# Setting up the API Key simply
+# Setting up the API Key
 my_key = os.environ.get("GEMINI_API_KEY")
 if not my_key:
     st.warning("First set the GEMINI_API_KEY!")
